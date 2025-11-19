@@ -1,4 +1,10 @@
 # Fire and Water
+
+## About
+I was inspired by Bonnie Eisenman and Harvest Zhang's Mug Music project https://github.com/bonniee/mug-music, and wanted to try it out for myself! 
+
+This is an interactive instrument based on capacitive sensing circuitry, generating a unique soundscape via the ChucK software. I have uploaded scripts and a video demonstrating the set up of the system.
+
 <details>
   <summary>📁 Project Overview (click to expand)</summary>  
   
