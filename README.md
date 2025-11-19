@@ -17,15 +17,16 @@
 
 <details>
   <summary>📁 To Use Code (click to expand)</summary>
-  Arduino Setup
-  Install and open Arduino IDE
-  Connect the board via USB
-  Select Serial COM port from drop-down menu.
-  Upload the provided Arduino sketch (touche_peak.ino) to your board.
-  Connect the sensing wire (e.g., alligator clip) to the mug water.
-  Ground yourself (e.g., by touching the laptop case) when using for best sensitivity.
+  
+  ## Arduino Setup
+    Install and open Arduino IDE
+    Connect the board via USB
+    Select Serial COM port from drop-down menu.
+    Upload the provided Arduino sketch (touche_peak.ino) to your board.
+    Connect the sensing wire (e.g., alligator clip) to the mug water.
+    Ground yourself (e.g., by touching the laptop case) when using for best sensitivity.
 
-  ChucK Setup
+  ## ChucK Setup
     Install ChucK
     Open a terminal or command prompt.
     Run the following command to see your serial ports:
