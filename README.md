@@ -1,15 +1,16 @@
 # Fire and Water
 <details>
   <summary>📁 Project Overview (click to expand)</summary>  
-  # Theme 
+  
+  ## Theme 
   
   An interactive instrument based on capacitive sensing circuitry, You're enjoying an evening campfire in the woods, use the mug to create some ambience, but beware of things lurking in the forest or the WATER...
   
-  # Objective 
+  ## Objective 
   
   To produce an interactive piece using capacitive sensing to generate a unique soundscape via the ChucK software.
   
-  # Preperation 
+  ## Preperation 
   
   This project utilises an Arduino UNO R3 board along with a circuit setup outlined in bonniee's mug-music: https://github.com/bonniee/mug-music and madlabdk's touche_peak file: https://github.com/madlabdk/touche
 </details>
@@ -24,12 +25,12 @@
   Connect the sensing wire (e.g., alligator clip) to the mug water.
   Ground yourself (e.g., by touching the laptop case) when using for best sensitivity.
 
-ChucK Setup
-  Install ChucK
-  Open a terminal or command prompt.
-  Run the following command to see your serial ports:
-  	chuck fireandwaterfinal.ck:PORT_NUMBER
-  Replace PORT_NUMBER with the correct serial port index shown earlier in the Arduino IDE.
+  ChucK Setup
+    Install ChucK
+    Open a terminal or command prompt.
+    Run the following command to see your serial ports:
+    	chuck fireandwaterfinal.ck:PORT_NUMBER
+    Replace PORT_NUMBER with the correct serial port index shown earlier in the Arduino IDE.
 </details>
 
 # Full Credits
@@ -42,6 +43,7 @@ Code adapted from:
 
 <details>
   <summary>📁 Sound files are accessed from FreeSounds (click to expand)</summary>
+  
   Footsteps
   530384__nox_sound__footsteps_boots_gritty_ground_stones_leaves_mono-glued.wav - 
   Bini_trns
